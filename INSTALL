@@ -1,0 +1,2 @@
+pipenv install
+python -m spacy download es
